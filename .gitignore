@@ -1,0 +1,20 @@
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+playwright-report/
+test-results/
+
+# Local settings, logs, and temporary files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
