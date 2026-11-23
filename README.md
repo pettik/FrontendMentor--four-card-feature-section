@@ -7,8 +7,6 @@ A responsive feature section built for the [Frontend Mentor challenge](https://w
 - [Source code](https://github.com/pettik/FrontendMentor--four-card-feature-section)
 - [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
-A live deployment URL has not been documented. The GitHub Pages URL for this repository currently returns 404; use the local preview below to view this version.
-
 ## Solution screenshots
 
 These screenshots show the implemented page in Chrome, with the Poppins font loaded. They replace the older solution captures; the original challenge references remain in `design/`.
